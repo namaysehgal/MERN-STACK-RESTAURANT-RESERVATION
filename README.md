@@ -1,1 +1,1 @@
-# MERN-STACK-RESTAURANT-RESERVATION
+The Restaurant Reservation App is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows customers to make reservations at a restaurant, view available times, and receive confirmation. The app also provides administrative functionality to manage reservations, including adding, editing, and canceling bookings.
